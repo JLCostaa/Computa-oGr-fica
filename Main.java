@@ -1,4 +1,4 @@
-// Source code is decompiled from a .class file using FernFlower decompiler.
+
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.Scanner;
